@@ -10,7 +10,7 @@ An illustration of how we can train a classfication model and challenges of eval
 
 Evaluating the trained model is bit different when it comes to classification models compared to regression model. 
 There are few metrics that i have mentioned in this repository like, ROC curve, precision and recall, plotting graphs.
-Based on the result or goal you can select the metrics the suits the situation. For instance comparing accuracy is mostly not gonna be much helpful when the 
+Based on the result or goal you can select the metrics that suits the situation. For instance comparing accuracy is mostly not gonna be much helpful when the 
 proportion of class in your training set if skewed. In situation like that looking up the precision, recall or f1 score is more sensible.  
 
 * Free software: MIT license
